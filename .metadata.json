@@ -1,0 +1,10 @@
+[
+  {
+    "package": "GPareto",
+    "oncran": true
+  },
+  {
+    "package": "OOR",
+    "oncran": true
+  }
+]
