@@ -1,10 +1,10 @@
 [
   {
-    "package": "GPareto",
+    "package": "OOR",
     "oncran": true
   },
   {
-    "package": "OOR",
+    "package": "GPareto",
     "oncran": true
   }
 ]
