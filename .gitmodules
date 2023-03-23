@@ -8,6 +8,11 @@
 	url = https://github.com/mbinois/gpareto
 	shallow = true
 	registered = true
+[submodule "hetGP"]
+	path = hetGP
+	url = https://github.com/cran/hetGP
+	shallow = true
+	registered = true
 [submodule "OOR"]
 	path = OOR
 	url = https://github.com/mbinois/oor
