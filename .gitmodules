@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "GPareto"]
 	path = GPareto
 	url = https://github.com/mbinois/gpareto
-	shallow = true
-	registered = true
 [submodule "hetGP"]
 	path = hetGP
 	url = https://github.com/cran/hetGP
-	shallow = true
-	registered = true
 [submodule "OOR"]
 	path = OOR
 	url = https://github.com/mbinois/oor
-	shallow = true
-	registered = true
