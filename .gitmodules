@@ -5,9 +5,9 @@
 [submodule "GPareto"]
 	path = GPareto
 	url = https://github.com/mbinois/gpareto
-[submodule "hetGP"]
-	path = hetGP
-	url = https://github.com/cran/hetGP
 [submodule "OOR"]
 	path = OOR
 	url = https://github.com/mbinois/oor
+[submodule "hetGP"]
+	path = hetGP
+	url = https://github.com/cran/hetGP
